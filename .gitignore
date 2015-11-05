@@ -1,0 +1,6 @@
+tmp/
+log/
+logs/
+*.bak
+.DS_Store
+deploy.sh
